@@ -6,3 +6,4 @@ yarn-error.log*
 *.jar
 /grab
 .idea
+bin/grab
